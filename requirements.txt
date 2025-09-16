@@ -1,0 +1,14 @@
+ipykernel
+langchain_groq
+langchain_community
+langgraph
+#beautifulsoup4
+sentence-transformers
+dotenv
+langchain_huggingface
+faiss-cpu
+Typing
+Ipython
+streamlit
+tavily-python
+
