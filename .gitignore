@@ -1,1 +1,5 @@
 venv/
+.gitignore
+.git-credentials
+id_rsa.pub
+id_rsa.pub.pub
