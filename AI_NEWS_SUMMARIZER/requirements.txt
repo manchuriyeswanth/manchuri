@@ -1,0 +1,15 @@
+#ipykernel
+langchain
+langchain_core
+langchain_groq
+langchain_community
+langgraph
+#beautifulsoup4
+#sentence-transformers
+#dotenv
+#langchain_huggingface
+faiss-cpu
+#Ipython
+streamlit
+tavily-python
+
