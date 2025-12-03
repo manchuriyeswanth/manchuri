@@ -1,0 +1,8 @@
+/mlruns
+.vscode/
+__pycache__/
+*.pyc
+.data/
+vocab.pkl
+model_last.pt
+venv/

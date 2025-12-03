@@ -1,0 +1,7 @@
+torch>=2.0
+torchtext>=0.14
+numpy
+scikit-learn
+tqdm
+mlflow
+pytest
